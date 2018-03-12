@@ -2,7 +2,7 @@
 
 This is a simple group chat application build using Springboot
 
-# Installation run the application 
+# Installation and running the application 
 
 1. Install gradle.
 2. Checkout the chat-box project.
