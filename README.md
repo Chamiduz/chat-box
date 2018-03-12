@@ -13,3 +13,8 @@ This is a simple group chat application build using Springboot
 
 1. Go to browser and enter the url 'http://localhost:8080/chat'
 2. Enter a name and join the chat.
+
+# Architectural Diagram
+
+1. Download the chat-app.xml.
+2. Open https://www.draw.io/ and import.
